@@ -8,6 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "anonymous-files": "^1.0.1",
     "expo": "~37.0.3",
     "expo-image-picker": "~8.1.0",
     "expo-sharing": "~8.1.0",
